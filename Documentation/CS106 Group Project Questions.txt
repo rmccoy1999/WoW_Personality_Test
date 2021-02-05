@@ -1,0 +1,72 @@
+Q1
+"Which is your preferred go-to, on-the-fly drink?"
+W-Dark Cherry Powerade.
+H-Ice water.
+T-Dr. Pepper
+
+
+Q2
+"If you were up to bat in a baseball game and a ball was thrown directly at you, what would you do?"
+T-Get hit by the pitch and jog happily to first.
+W-Jump out of the batter's box and take a daddy-hack at it.
+H-I wouldn't be batting; I would be chasing butterflies in the outfield because I don't care about baseball.
+
+
+Q3
+"If you were stuck with only three TV shows to choose from, which would you select?"
+H-Nat Geo's Into the Wild
+W-NCIS
+T-Ring of Honor Wrestling
+
+
+Q4
+"What would be your reaction to your grandmother giving you a pair of ugly socks for Christmas?"
+T-To wear them for a day because it's your grandmother.
+H-To turn in the receipt and use the money to buy something different.
+W-To burn them in the backyard and then mail her an envelope with the ashes.
+
+
+Q5
+"On a sunny day would you prefer to:"
+T-Go outside and sunbathe for an hour, despite a chance of horrific sunburn.
+H-Go outside and create a homemade sun dial for the fun of it.
+W-Stay inside and play Clash of Clans on your phone.
+
+
+Q6
+"Which of the following vacations sounds more appealing?"
+H-A trip to Yosemite National Park.
+T-Rock climbing in the Appalachian Mountains
+W-Sky diving in the Grand Canyon
+
+
+Q7
+"If you had to get one of the three following pets, which would you choose?"
+W-A termite colony to unleash underneath the annoying next-door neighbor's wooden deck.
+T-A Bengal tiger to keep your mom at bay for when she comes into your room to yell at you for forgetting to do your dishes.
+H-A kitten to help soothe the nerves you get from studying for a computer science final.
+
+
+Q8
+"What would you do if you realized that you left your favorite pen in the school library after it closed up for the night?"
+T-Get hold of the head librarian's phone number and text them non-stop at 3am.
+W-Break open a window and search the entire library until you found it.
+H-Forget about it; it's a pen and it's not worth losing 8 hours of sleep over.
+
+
+BONUS Questions:
+
+For a tie between Warrior and Healer:
+"Do you prefer a taco salad or a regular taco?"
+W-Regular taco
+H-Taco salad
+
+For a tie between Warrior and Tank:
+"Do you like high-pressure situations?"
+W-Yes
+T-No
+
+For a tie between Healer and Tank
+"Would you rather walk in the park or take a hike in the mountains?"
+H-Walk in the park
+T-Hike in the mountains

@@ -1,0 +1,8 @@
+		public static void showText(JFrame f) {
+
+		//TEXT SAYING YOU ARE:
+		JLabel text = new JLabel("This is a label", JLabel.CENTER);
+		text.setFont(new Font("Verdana",1,25)); //Bold,Ital, etc. fontsize
+		f.add(text);
+		
+		}

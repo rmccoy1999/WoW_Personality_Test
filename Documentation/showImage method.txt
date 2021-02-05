@@ -1,0 +1,22 @@
+	public static void showImage(JFrame f) {
+		
+		Image image = null;
+		URL url = null;
+	
+		try {
+
+		url = new URL("https://blznav.akamaized.net/img/games/cards/card-world-of-warcraft-54576e6364584e35.jpg");
+		image = ImageIO.read(url);
+
+		} catch (IOException e) {
+
+		e.printStackTrace();
+
+		}
+
+		//IMAGE OF CHARACTER
+		JLabel labelImg = new JLabel(new ImageIcon(image), JLabel.LEFT);
+		f.add(labelImg);
+		f.setVisible(true);
+		
+}
