@@ -1,4 +1,5 @@
 # WoW_Personality_Test
+CS106 Final Project
 
 How it works:
 Eight personality questions are asked, each answer to every question gives you a point towards either the Tank class, Healer class, or the Warrior class. 
